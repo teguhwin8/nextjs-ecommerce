@@ -57,7 +57,7 @@ export const StateContext = ({ children }) => {
 				qty,
 				incQty,
 				decQty,
-                onAdd
+				onAdd,
 			}}
 		>
 			{children}
